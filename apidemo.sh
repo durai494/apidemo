@@ -1,5 +1,5 @@
 #!/bin/sh
-# This script can be used to simplify starting and stopping the API Demo Docker container.
+# This script can be used to simplify starting and stopping the API Demo Docker container  .
 
 SERVER_CONTAINER="zzkhoo/okta-api-demo:latest"
 PWD=$(pwd)
